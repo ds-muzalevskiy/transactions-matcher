@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+torch
+sentence-transformers
+scikit-learn
+transformers
+fuzzywuzzy
+python-Levenshtein
+pytest
+pytest-cov
+httpx
